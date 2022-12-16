@@ -41,4 +41,4 @@ php artisan migrate
 ```
 - This will generate tables in db and some random dummy users to check app
 - You can use any email to login from users table.
-- All user's password is "password".
+- All user's password is "12345678".
