@@ -30,6 +30,7 @@ Create db on your system and update database details in .env file
 
 ```
 composer install
+npm update
 ```
 
 ##### Step : 5
